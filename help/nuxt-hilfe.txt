@@ -1,0 +1,2 @@
+Development Server starten: 
+npm run dev -- -o
