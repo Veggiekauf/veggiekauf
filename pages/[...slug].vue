@@ -1,6 +1,6 @@
 <template>
     <main>
-      <div class="p-4">
+      <div class="container mx-auto">
         <ContentDoc />
       </div>
   </main>
